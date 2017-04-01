@@ -1,3 +1,4 @@
 ---
 restServerEnabled: true  # Change this if you are running multiple FredBoat bots on the same machineI'
 Prefix: '•'
+Development: true
